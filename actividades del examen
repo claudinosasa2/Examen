@@ -1,0 +1,5 @@
+#Actividad 
+1) abrir el csv mostrar las siguientes columnas gender,lunch y matcore, mostrar las primeras 12 filas. mostrar las ultimas 8 filas.
+2) abrir el csv mostrar las ultimas 3 columnas. mostrar si hay espacios bacios. mostrar la cantidad y mostrar el tipo de dato de la ultima columna 
+3) abrir el csv mostrar la columna reading score. mostrar la cantidad y la suma 
+4) abrir el csv mostrar las 2 primeras columnas. mostrar los tipos de datos. mostrar las ultimas 10 filas 
